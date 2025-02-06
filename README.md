@@ -48,7 +48,7 @@ Query_id/user_id:.......
 Run the bot:
 
 ```bash
-node main.js
+node animix.js
 
 ```
 
